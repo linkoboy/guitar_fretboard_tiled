@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map_test.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "tilesets"
+    ],
+    "exportAsImage.useCurrentScale": false,
+    "fileStates": {
+        "map_test.tmx": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 479.125,
+                "y": 466.25
+            }
+        },
+        "tilesets/tileset_minimalist.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "D:/DEV/MyProjects/Github/guitar_fretboard_tiled/Tiled/tilesets",
+    "map.height": 100,
+    "map.lastUsedFormat": "tmx",
+    "map.tileWidth": 48,
+    "map.width": 100,
+    "openFiles": [
+        "map_test.tmx"
+    ],
+    "project": "Guitar-Fretboard.tiled-project",
+    "recentFiles": [
+        "map_test.tmx",
+        "tilesets/tileset_minimalist.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 48
+    }
+}
